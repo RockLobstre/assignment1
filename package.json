@@ -1,0 +1,26 @@
+{
+  "name": "assignment1",
+  "version": "1.0.0",
+  "description": "Enterprise first assignment",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RockLobstre/assignment1.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "Matin Salehi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RockLobstre/assignment1/issues"
+  },
+  "homepage": "https://github.com/RockLobstre/assignment1#readme",
+  "dependencies": {
+    "restify": "^7.2.1",
+    "save": "^2.3.2"
+  }
+}
